@@ -2,10 +2,12 @@ import requests
 import json
 import time
 import os
+import config
 
-subs_to_watch = ['news', 'worldnews', 'politics']
+#which subreddits to retrieve
+subs_to_watch = config.subs_to_watch
 #give agent a unique name
-agent = 'fpbotv_n0.1'
+agent = config.agent
 
 #function to return time in unix format
 def get_time():
