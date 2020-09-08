@@ -1,4 +1,6 @@
-Simple script to retrieve subreddit frontpages in JSON format
+Simple script to retrieve subreddit frontpages in JSON format  
+## Execution
+Run file subreddit_frontpages.py 
 
 ## Configuration 
 The following variables in the config.py are editable,  
@@ -10,4 +12,4 @@ The following variables in the config.py are editable,
 ## Downloaded files
 Files are stored in the following directory relative to the script location /downloaded/sub_reddit_name
 ## Filename
-The filename for each snapshot is the unix time it was created + .json
+The filename for each snapshot is the unix time it was created + .json  
