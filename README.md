@@ -1,4 +1,4 @@
-Simple script to retrieve subreddit frontpages in JSON format  
+Script to retrieve subreddit frontpages in JSON format  
 ## Execution
 Run file subreddit_frontpages.py 
 
